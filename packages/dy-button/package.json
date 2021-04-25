@@ -1,0 +1,10 @@
+{
+  "name": "@dailyui/dy-button",
+  "version": "0.0.1",
+  "description": "按钮",
+  "main": "index.js",
+  "author": "wdlnydhcg <wdlnydhcg@hikvision.com.cn>",
+  "dependencies": {
+
+  }
+}
