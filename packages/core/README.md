@@ -1,11 +1,11 @@
-# `dy-select`
+# `core`
 
 > TODO: description
 
 ## Usage
 
 ```
-const dySelect = require('dy-select');
+const core = require('core');
 
 // TODO: DEMONSTRATE API
 ```
