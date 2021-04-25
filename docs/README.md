@@ -1,4 +1,5 @@
-# storybook-ui
+# dailyui
+
 
 ## Project setup
 ```
