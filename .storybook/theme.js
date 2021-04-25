@@ -1,7 +1,7 @@
 import { create } from '@storybook/theming';
 
 export default create({
-  base: 'dark',
+  base: 'light',
   brandTitle: '南航UI库',
   brandUrl:
     'https://github.com/carbon-design-system/carbon-components-vue/tree/main/packages/v3',

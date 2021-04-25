@@ -2,6 +2,9 @@
   "name": "dailyui",
   "version": "0.1.0",
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "serve": "start-storybook -p 6666",
     "build": "vue-cli-service build --target lib --name carbon-vue-3 ./src/index.js --no-clean",
