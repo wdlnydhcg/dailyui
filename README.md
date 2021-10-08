@@ -1,4 +1,5 @@
-# storybook-ui
+# daily-ui
+针对公司业务实现的组件库（storybook+lerna+vue3）
 
 ## Project setup
 ```
